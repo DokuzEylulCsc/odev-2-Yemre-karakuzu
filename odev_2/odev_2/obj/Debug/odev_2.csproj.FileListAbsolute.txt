@@ -1,0 +1,7 @@
+C:\Users\EMRE\source\repos\odev_2\odev_2\bin\Debug\odev_2.exe.config
+C:\Users\EMRE\source\repos\odev_2\odev_2\bin\Debug\odev_2.exe
+C:\Users\EMRE\source\repos\odev_2\odev_2\bin\Debug\odev_2.pdb
+C:\Users\EMRE\source\repos\odev_2\odev_2\obj\Debug\odev_2.csprojResolveAssemblyReference.cache
+C:\Users\EMRE\source\repos\odev_2\odev_2\obj\Debug\odev_2.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\odev_2\odev_2\obj\Debug\odev_2.exe
+C:\Users\EMRE\source\repos\odev_2\odev_2\obj\Debug\odev_2.pdb

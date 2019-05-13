@@ -1,0 +1,14 @@
+﻿Ders:Nesneye Yönelik Programlama
+Şubeler:
+Sube Adi:Birinci Sube
+Ogretim Elemani:Uğur Eliiyi
+Ogretim Elemani ID:12345
+Ogrenci Basla
+Ogrenci Adi:Yunus Emre Karakuzu
+Ogrenci Numarasi:2015280014
+Ogrenci Adi:Can Yücel
+Ogrenci Numarasi:201024584
+Ogrenci Adi:Cemal sureyya
+Ogrenci Numarasi:2005214565
+Ogrenciler Son
+Subeler Son
